@@ -29,7 +29,7 @@
     <param name="android-package" value="org.apache.cordova.camera.CameraLauncher"/>
     <param name="ios-package" value="CDVCamera" />
 </feature>
-<gap:plugin name="org.apache.cordova.camera" />
+    <plugin name="phonegap-plugin-barcodescanner" />
 <gap:plugin name="org.apache.cordova.media-capture" />
 <gap:plugin name="org.apache.cordova.file" />
 <gap:plugin name="org.apache.cordova.media" />

@@ -4,7 +4,8 @@
     id          = "com.phonegap.llaku"
     versionCode = "10"
     version     = "1.0.0" >
-<preference  name="phonegap-version"  value= "3.7.0"  />
+    
+    <preference name="phonegap-version" value="cli-6.5.0" />
 <!-- versionCode is optional and Android only -->
 
   <name>LL</name>
